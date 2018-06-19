@@ -1,0 +1,37 @@
+body {
+    background-color: #55ACEE;
+}
+
+header {
+    height: 100px;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
+h2,
+h3 {
+    color: white;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+.trigger {
+    margin: 40px 0px;
+    text-align: center;
+    border: 1px solid white;
+    padding: 8px 88px;
+    background-color: #55ACEE;
+    color: white;
+    cursor: pointer;
+}
+
+.tweet {
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 8px 100px;
+}
